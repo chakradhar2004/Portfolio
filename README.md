@@ -33,7 +33,7 @@ Portfolio/
 ## ⚡ How to Use
 1. Clone the repository:
    ```bash
-   https://github.com/chakradhar2004/Portfolio.git
+   https://github.com/your-username/Portfolio.git
    ```
 2. Open `index.html` in your browser.  
 
